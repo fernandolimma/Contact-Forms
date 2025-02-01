@@ -9,3 +9,6 @@ Navegue até a pasta do projeto e inicie o servidor:
 
 http-server -p 8000
 Acesse http://localhost:8000 no seu navegador.
+
+Autenticação:
+Quando você acessar a página, será solicitado que você faça login com sua conta do Google e conceda permissão para acessar seus contatos.
